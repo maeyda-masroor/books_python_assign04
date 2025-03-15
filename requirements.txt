@@ -1,0 +1,5 @@
+streamlit
+sqlite3  # This is part of Python’s standard library, so it’s not needed in requirements.txt
+pandas
+bcrypt
+matplotlib
